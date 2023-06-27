@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(181, 109, 248);
+}
+
+header{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+}
+
+header h2{
+    padding-top: 5px;
+}
+
+.presentacion{
+    
+    text-align: center;
+
+}
+
+.a{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.p{
+    width: 600px;
+    border: solid rgb(226, 199, 43);
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+.xd{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.yo{
+    width: 450px;
+    height: 550px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0.6rem 0.6rem 0.7rem rgb(204, 219, 68)
+    
+}
+
+.yo2{
+    width: 400px;
+    height: 500px;
+    padding-top: 25px;
+    border-radius: 10px;
+}
+
+.lol{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.pais{
+    border: solid gold;
+    width: 500px;
+    text-align: center;
+}
+
+.img{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+
+.imag{
+    background-color: #fff;
+    width: 450px;
+    height: 350px;
+    border-radius: 15px;
+    box-shadow: 0.6rem 0.6rem 0.7rem rgb(204, 219, 68);
+    margin-bottom: 20px;
+}
+
+.IMG{
+    width: 400px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 15px;
+    
+}
